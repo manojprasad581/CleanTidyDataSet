@@ -77,4 +77,6 @@ createDataSets <- function() {
     dataSet2 <- averageActivitySubject(dataSet1)
     View(dataSet2)
     write.csv(dataSet2, "./DataSet2.csv")
+    
+    write.table(dataSet2, "./DataSet2.txt", row.name=FALSE)
 }
