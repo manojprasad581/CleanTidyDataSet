@@ -18,7 +18,7 @@
     - Please refer to the CodeBook.md for more details
     
 # Result_Data_Sets
- - Directory storing the results (DataSet1, DataSet2) DataSet1.csv and DataSet2.csv
+ - Directory storing the results (DataSet1, DataSet2) DataSet1.csv, DataSet2.csv, DataSet2.txt
  
 # UCI HAR Dataset
  - Directory containing the pre processed raw data
